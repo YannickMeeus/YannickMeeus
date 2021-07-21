@@ -1,4 +1,14 @@
-### Hi there 👋
+👋
+
+I'm historically a back-end engineer, having worked on payments integration systems, warehouse integration systems, a full Dealer Management Software offering, and various other bits and bobs.
+
+Currently I'm focusing on coaching, leadership, and engineering excellence over at the [smartly.io Creative Group](https://www.smartly.io/blog/meet-our-product-groups-creative-group)
+
+In my spare time I:
+- parent - I have a newly initialised son
+- cook - Recently I've started rediscovering my heritage and I'm trying to cook a lot of North African dishes. Results have been... mixed
+- read - Fantasy/Science Fiction mostly, I tried some more serious stuff but it never quite gets me into the thick of things in quite the same way
+- learn - Currently trying to learn Rust. It's been a journey, lemme tell you
 
 <!--
 **YannickMeeus/YannickMeeus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
