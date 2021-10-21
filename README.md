@@ -12,8 +12,10 @@ In my spare time I:
 
 ## ❓ And where is all of your stuff?
 
-I collect any and all work under a separate organisation, called [Silly Goose Software](https://github.com/Silly-Goose-Software/).
+I collect most of my side-hustle work under a separate organisation, called [Silly Goose Software](https://github.com/Silly-Goose-Software/).
 There you find such classics as:
 - [Event Sauced](https://github.com/Silly-Goose-Software/event-sauced-ts) - An event sourcing plugin library
 - [Goose](https://github.com/Silly-Goose-Software/goose/blob/main/cmd/root.go) WIP - Very much not even close to being started, but I wanted to try this new CLI library *and* learn Go.
 - [Kortteli Kaupa Stock Checker](https://github.com/Silly-Goose-Software/kortteli-kauppa-stock-checker) WIP - A full stack project with Rails on the backend, more details in that particular README
+
+I do have a bunch of "learning" repos that I've started pushing to my personal organisation. These will typically be named <language>-<scenario>. These are extremely simply things to achieve, but give me a good enough idea on how a language/stack hangs together.
