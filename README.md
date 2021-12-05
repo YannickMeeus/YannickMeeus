@@ -1,6 +1,6 @@
 👋
 
-I'm historically a back-end engineer, having worked on payments integration systems, warehouse integration systems, a full Dealer Management Software offering, and various other bits and bobs.
+I'm historically a back-end engineer, having worked on payments integration systems, warehouse integration systems, a full Dealer Management Software offering, Facebook integrations, authorization and authentication systems, real-time notifications, and various other bits and bobs.
 
 In my spare time I:
 - parent - I have a newly initialised son
