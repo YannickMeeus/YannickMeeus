@@ -8,6 +8,8 @@ In my spare time I:
 - read - Fantasy/Science Fiction mostly, I tried some more serious stuff but it never quite gets me into the thick of things in quite the same way. I'm dabbling in some Lovecraftian stuff more recently, which is a nice change of tone
 - learn - Currently trying to learn Rust. It's been a journey, lemme tell you
 
+At the moment I'm helping build out Orchestration and Platform teams at Mapbox.
+
 ## ❓ And where is all of your stuff?
 
 I collect most of my side-hustle work under a separate organisation, called [Silly Goose Software](https://github.com/Silly-Goose-Software/).
