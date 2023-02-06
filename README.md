@@ -16,7 +16,6 @@ I collect most of my side-hustle work under a separate organisation, called [Sil
 There you find such classics as:
 - [Messaging Advocacy](https://github.com/Silly-Goose-Software/messaging-advocacy) - An attempt at illustrating a publish-subscribe paradigm on top of RabbitMQ.
 - [Event Sauced](https://github.com/Silly-Goose-Software/event-sauced-ts) - An event sourcing plugin library
-- [Kortteli Kauppa Stock Checker](https://github.com/Silly-Goose-Software/kortteli-kauppa-stock-checker) WIP - more details in that particular README. Once it's done, I'll rewrite it into Rust.
-
+- [Kortteli Kauppa Stock Checker](https://github.com/Silly-Goose-Software/kortteli-kauppa-stock-checker) ~~WIP - more details in that particular README. Once it's done, I'll rewrite it into Rust.~~ I never managed to finish this, and the company has since gone into administration.
 
 I do have a bunch of "learning" repos that I've started pushing to my personal organisation. These will typically be named "language"-"scenario", such as [rust-host-an-api](https://github.com/YannickMeeus/rust-host-an-api) or [golang-work-with-files](https://github.com/YannickMeeus/golang-work-with-files). These are extremely simply things to achieve, but give me a good enough idea on how a language/stack hangs together.
