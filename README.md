@@ -6,7 +6,7 @@ In my spare time I:
 - parent - I have a newly initialised son
 - cook - Recently I've started rediscovering my heritage and I'm trying to cook a lot of North African dishes. Results have been... mixed
 - read - Fantasy/Science Fiction mostly, I tried some more serious stuff but it never quite gets me into the thick of things in quite the same way. I'm dabbling in some Lovecraftian stuff more recently, which is a nice change of tone
-- learn - Currently trying to learn Rust. It's been a journey, lemme tell you
+- learn - Currently learning to build robust Go services. I'm focusing on a monolith because why the heck not.
 
 At the moment I'm focusing on building out the developer platform and multi-account cloud architecture at Mapbox, which includes levelling up our cloud engineering expertise whilst keeping our costs under control, coaching engineers on their path to cloud-native application architectures, and engaging with all manner of stakeholders to ensure my team's building the right things in the right way at the right time.
 
